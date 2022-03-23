@@ -1,5 +1,7 @@
 # ADAVI: Automatic Dual Amortized Variational Inference
 
+Official implementation for the [ADAVI (Rouillard & Wassermann, ICLR 2022)](https://arxiv.org/abs/2106.12248) paper
+
 ## Install
 To install this package run from this directory:
 ```bash
